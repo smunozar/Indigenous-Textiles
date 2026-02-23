@@ -4,8 +4,8 @@
 # Site Settings
 title: "Indigenous Textiles
 description: "This website examines the history of Indigenous textiles in the New Kingdom of Granada"
-baseurl: "/Indigenous-Textiles"
-url: "https://tugithubsmunozar.github.io"
+baseurl: "/indigenous-textiles"
+url: "https://smunozar.github.io"
 author: "Santiago Muñoz Arbeláez"
 email: "smunozar@neogranadina.org"
 telar_theme: "paisajes" # Options: paisajes, neogranadina, santa-barbara, austin, or custom
